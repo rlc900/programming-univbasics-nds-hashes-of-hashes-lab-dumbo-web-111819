@@ -48,6 +48,8 @@ nested_hash = {
      label: "Phylum",
      sub_category: {
        label: "Class"
+     }
+   }
 }
 
 end
